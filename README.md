@@ -1,6 +1,6 @@
 # Dataset for open source smart contracts
 Please find the dataset here:
-https://drive.google.com/file/d/1mG-hxFUlBX2pLGxN6JdqlTnJqYc2GQjQ/view?usp=sharing
+TBD
 # File information
 - washed_contract.csv dataset contains about 48k thousand contract snippets which is open source on Etherscan.
 The attributes such as contract address, creater and bytecode are listed for each contract.
