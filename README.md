@@ -1,1 +1,1 @@
-# Semantic-Code-Search-for-Smart-Contracts
+# Dataset for open source smart contracts
