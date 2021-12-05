@@ -1,7 +1,23 @@
 # Dataset for open source smart contracts
-washed_contract.csv dataset contains about 48k thousand contract snippets which is open source on Etherscan.
 Please find the dataset here:
 https://drive.google.com/file/d/1mG-hxFUlBX2pLGxN6JdqlTnJqYc2GQjQ/view?usp=sharing
+# File information
+- washed_contract.csv dataset contains about 48k thousand contract snippets which is open source on Etherscan.
+The attributes such as contract address, creater and bytecode are listed for each contract.
+
+
+- Row:
+    Each row represents an contract snippet.
+    Sum: More than 48k rows.
+
+- Column:
+    1. ID : ID of the contract function 
+    2. function_name : The name of thefunction
+    3. original_function : The original function code
+    4. function_tokens : Washed token series of the function
+ 
+    Sum: 5 columns
+
 # Citation
 ## Bibtex
 
