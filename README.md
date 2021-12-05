@@ -1,5 +1,5 @@
 # Dataset for open source smart contracts
-Open Source Contract Info.csv dataset contains about 14 thousand contracts which is open source on Etherscan.
+washed_contract.csv dataset contains about 48k thousand contracts which is open source on Etherscan.
 Please find the dataset here:
 https://drive.google.com/file/d/1kwkGdR_VpQGwOCSWMfh605bZp-FhgXHw/view?usp=sharing
 # Citation
